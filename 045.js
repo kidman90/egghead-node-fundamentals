@@ -1,0 +1,8 @@
+buf = new Buffer(5)
+buf.toJSON()
+buf1 = new Buffer('Hello World!')
+buf2 = buf1.slice(0, 3)
+buf2.toString()
+buf2.write('xxx')
+buf2.toString()
+buf1.toString()
