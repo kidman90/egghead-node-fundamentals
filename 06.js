@@ -1,0 +1,5 @@
+var circle = require('./circle.js')
+circle.area(4)
+circle.circumference(4)
+var http = require('http')
+var circle2 = require('./circle')
