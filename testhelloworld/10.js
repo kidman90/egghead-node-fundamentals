@@ -1,2 +1,2 @@
-var sayhelloworld = require('sayhelloworld');
-sayhelloworld.sayIt();
+var sayhelloworldkidman = require('sayhelloworldkidman');
+sayhelloworldkidman.sayIt();
